@@ -1,0 +1,10 @@
+{
+	"9o.hist./home/ballingall/.gvm/pkgsets/go1.5.1/abTest/src/github.com/haylingsailor/hello":
+	[
+		"go build",
+		"go install"
+	],
+	"ann": "a16.07.09-1",
+	"install_version": "r16.07.09-1",
+	"version": "r16.07.09-1"
+}

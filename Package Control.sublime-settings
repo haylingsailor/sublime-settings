@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ANSIescape",
+		"Behat",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Function Name Display",
+		"GitGutter",
+		"GoOracle",
+		"GoSublime",
+		"LESS",
+		"Monokai Extended",
+		"Monokai Neue",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-contrib-cmakelint",
+		"SublimeLinter-contrib-tslint",
+		"SublimeLinter-cpplint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint",
+		"TOML",
+		"TrailingSpaces",
+		"TypeScript"
+	]
+}
